@@ -12,6 +12,8 @@ Ctrl + shift + k
 
 
 - MVC와 템플릿엔진
+
 server에서 변형 후 웹에 전달
 - API
+
 data구조 포맷(ex. json)으로 클라이언트에 전달
