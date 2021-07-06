@@ -1,2 +1,0 @@
-exercise/demo/DemoApplicationTests.java
- exercise.demo.DemoApplicationTests
