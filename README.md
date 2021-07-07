@@ -48,6 +48,7 @@ API
 >public void afterEach() {
 >    repository.clearStore();
 >}
+>    //MemoryMemberRepository변수.clearstore();
 >```
 
 ### Test 쉽게 만드는 방법  
