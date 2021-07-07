@@ -36,3 +36,6 @@ member의 값이 result와 같으면 정상작동 (초록불)
 >    repository.clearStore();
 >}
 >```
+
+#### Test 쉽게 만드는 방법  
+`Ctrl + shift + t`
