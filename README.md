@@ -16,6 +16,11 @@
 
 >`@Autowired`  
 >스프링이 memberService를 스프링container에 있는 memberService를 가져다 연결시켜줌  
+
+>>`@Service`  
+>>스프링container에 MemberService 등록  
+>>`@Repository`  
+>>`@Controller`  
   *****    
 ## intelliJ 단축키 간단 정리
 >`shift + F6`  
