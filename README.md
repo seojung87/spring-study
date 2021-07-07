@@ -57,3 +57,13 @@ Create New Test
 
 //given, when, then 문법 사용하기  
 
+### Test와 MemoryRepository 통일하기  
+>member repository를 외부에서 넣음
+>```
+>@BeforeEach
+>public void beforeEach() {
+>    memoryRepository = new MemoryMemberRepository();
+>    memberService = new MemberService(memoryRepository);
+>}
+>```
+    
