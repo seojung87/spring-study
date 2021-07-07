@@ -23,13 +23,13 @@ member의 값이 result와 같으면 정상작동 (초록불)
 +) `import static org.assertj.core.api.Assertions.*;` 추가하면 Assertions 생략가능  
 
 ### Test 끝나고 data 클리어  
->MemoryMemberRepository.java에서  
+>1.MemoryMemberRepository.java에서  
 >```
 >public void clearStore() {
 >        store.clear();
 >    }
 >```  
->MemoryMemberRepositoryTest.java에서
+>2.MemoryMemberRepositoryTest.java에서
 >```
 >@AfterEach
 >public void afterEach() {
