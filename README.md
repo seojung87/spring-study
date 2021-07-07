@@ -24,8 +24,7 @@
 >>`@Repository`  
 >>`@Controller`  
 
-![spring_container](C:\Users\jenny\OneDrive\바탕 화면\캡쳐\spring_container.png)  
-<img src="C:\Users\jenny\OneDrive\바탕 화면\캡쳐\spring_container.PNG"  width="700" height="370">
+<img src="C:\Users\jenny\OneDrive\바탕 화면\캡쳐\spring_container.PNG"  width="700" height="370">  
 
 
   *****    
