@@ -8,11 +8,14 @@
 변경 사항등을 잘 확인 한 뒤 푸쉬하도록 한다.   
 
   *****  
-MVC와 템플릿엔진  
--server에서 변형 후 웹에 전달  
-API  
--data구조 포맷(ex. json)으로 클라이언트에 전달
+## Spring 강의 지식
+>MVC와 템플릿엔진  
+>-server에서 변형 후 웹에 전달  
+>API  
+>-data구조 포맷(ex. json)으로 클라이언트에 전달
 
+>`@Autowired`  
+>memberService를 스프링이 스프링container에 있는 memberService를 가져다 연결시켜줌  
   *****    
 ## intelliJ 단축키 간단 정리
 >`shift + F6`  
@@ -33,7 +36,7 @@ API
 >>**메소드 추출**  
 >>`Ctrl + Alt + M`  
 
-
+  *****  
 ## Test
 ### Test 끝나고 data 클리어  
 >1.MemoryMemberRepository.java에서  
@@ -66,4 +69,4 @@ Create New Test
 >    memberService = new MemberService(memoryRepository);
 >}
 >```
-    
+
