@@ -81,3 +81,5 @@ Create New Test
 >}
 >```
 
+## 직접 spring bin 등록
+
