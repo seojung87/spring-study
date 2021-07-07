@@ -22,6 +22,7 @@ member의 값이 result와 같으면 정상작동 (초록불)
 같지않으면 오류 뜸  
 +) `import static org.assertj.core.api.Assertions.*;` 추가하면 Assertions 생략가능  
 
+## Test
 ### Test 끝나고 data 클리어  
 >1.MemoryMemberRepository.java에서  
 >```
@@ -37,6 +38,6 @@ member의 값이 result와 같으면 정상작동 (초록불)
 >}
 >```
 
-#### Test 쉽게 만드는 방법  
+### Test 쉽게 만드는 방법  
 `Ctrl + shift + t`  
 Create New Test
