@@ -26,6 +26,13 @@ member의 값이 result와 같으면 정상작동 (초록불)
 >MemoryMemberRepository.java에서  
 >```
 >public void clearStore() {
-        store.clear();
-    }
+>        store.clear();
+>    }
+>```  
+>MemoryMemberRepositoryTest.java에서
+>```
+>@AfterEach
+>    public void afterEach() {
+>        repository.clearStore();
+>    }
 >```
