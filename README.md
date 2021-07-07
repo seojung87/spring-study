@@ -96,5 +96,6 @@ public class SpringConfig {
         return new MemoryMemberRepository();
     }
 }
-```
+```  
+DB연결시 코드 하나만 바꾸면 
 
