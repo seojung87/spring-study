@@ -42,7 +42,7 @@ API
 >        store.clear();
 >}
 >```  
->2.MemoryMemberRepositoryTest.java에서
+>2.MemoryMemberRepositoryTest.java에서⭐
 >```
 >@AfterEach
 >public void afterEach() {
