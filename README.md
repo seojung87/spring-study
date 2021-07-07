@@ -97,5 +97,5 @@ public class SpringConfig {
     }
 }
 ```  
-DB연결시 코드 하나만 바꾸면 
+장점 : DB연결시 코드 하나만 바꾸면 됨
 
