@@ -16,6 +16,7 @@
 
 >`@Autowired`  
 >스프링이 memberService를 스프링container에 있는 memberService를 가져다 연결시켜줌  
+>즉, Service랑 Controller 연결
 >
 >>**class이름에 맞춰서 붙여주기 (정형화된 패턴)**   
 >>`@Service`  
