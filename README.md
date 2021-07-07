@@ -15,7 +15,7 @@
 >-data구조 포맷(ex. json)으로 클라이언트에 전달
 
 >`@Autowired`  
->memberService를 스프링이 스프링container에 있는 memberService를 가져다 연결시켜줌  
+>스프링이 memberService를 스프링container에 있는 memberService를 가져다 연결시켜줌  
   *****    
 ## intelliJ 단축키 간단 정리
 >`shift + F6`  
