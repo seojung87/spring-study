@@ -23,6 +23,9 @@
 >>스프링container에 MemberService 등록  
 >>`@Repository`  
 >>`@Controller`  
+
+![spring_container](C:\Users\jenny\OneDrive\바탕 화면\캡쳐\spring_container.png)
+
   *****    
 ## intelliJ 단축키 간단 정리
 >`shift + F6`  
