@@ -42,4 +42,7 @@ member의 값이 result와 같으면 정상작동 (초록불)
 
 ### Test 쉽게 만드는 방법  
 `Ctrl + shift + t`  
-Create New Test
+Create New Test  
+
+//given, when, then 문법 사용하기  
+
