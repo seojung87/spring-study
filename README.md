@@ -40,7 +40,7 @@ API
 >```
 >public void clearStore() {
 >        store.clear();
->    }
+>}
 >```  
 >2.MemoryMemberRepositoryTest.java에서
 >```
