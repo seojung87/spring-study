@@ -21,3 +21,11 @@ API
 member의 값이 result와 같으면 정상작동 (초록불)  
 같지않으면 오류 뜸  
 +) `import static org.assertj.core.api.Assertions.*;` 추가하면 Assertions 생략가능  
+
+>Test 끝나고 data 클리어  
+>MemoryMemberRepository.java에서  
+>```
+>public void clearStore() {
+        store.clear();
+    }
+>```
