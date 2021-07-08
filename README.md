@@ -102,3 +102,4 @@ public class SpringConfig {
 ```  
 장점 : DB연결시 코드 하나만 바꾸면 됨
 
+`@Transactional`를 test에 달면 test가 끝나고 DB를 롤백해줌(지워줌)
