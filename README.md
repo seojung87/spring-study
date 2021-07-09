@@ -32,7 +32,7 @@
 
   *****    
 ## intelliJ 단축키 간단 정리
->`sout`
+>`sout`  
 >System.out.println  
 >`shift + F6`  
 >변수이름 한번에 바꾸기, 근데 내컴에선 안됨
