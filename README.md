@@ -50,7 +50,7 @@
 >>**파라미터 추출**  
 >>`Ctrl + Alt + P`  
 >>**메소드 추출**  
->>`Ctrl + Alt + M` 
+>>`Ctrl + Alt + M`   
 >>**Test 추출**  
 >>`Ctrl shift + T`
 
