@@ -22,9 +22,9 @@
 >>`@Service`  
 >>스프링container에 MemberService 등록  
 >>`@Repository`  
->>`@Controller`
->
->
+>>`@Controller`  
+>>
+>>`@ComponentScan` : `@Component` 애노테이션이 붙은 클래스를 스캔해서 스프링 빈으로 등록  
 >spring의 장점: 인터페이스를 두고 구현체를 바꿔끼기 편리함  
 
 <img src="C:\Users\jenny\OneDrive\바탕 화면\캡쳐\spring_container.png"  width="700" height="370">  
